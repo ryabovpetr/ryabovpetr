@@ -15,6 +15,20 @@
   </h1>
 </div>
 
+### :man_technologist: About Me :
+I am a Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/RyabovPetr-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/moi_dom_gorit)
+
+
+
+
 
 
 <!--
