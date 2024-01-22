@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/JU7wXXaDEsy7YzO0sI/giphy.gif" width="100"/>
+</div>
 
 <!--
 **ryabovpetr/ryabovpetr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
