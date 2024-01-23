@@ -32,6 +32,7 @@ I am a Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center" dir="auto">
+  <a target="_blank"><img height="50" title="Intellij" alt="Intellij" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"></a>
   <a target="_blank"><img height="50" title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></a>
   <a target="_blank"><img height="50" title="Spring" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"></a>
   <a target="_blank"><img height="50" title="PostgreSQL" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"></a>
@@ -42,9 +43,8 @@ I am a Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOC
   <a target="_blank"><img height="50" title="Jquery" alt="Jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg"></a>
   <a target="_blank"><img height="50" title="Html5" alt="Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"></a>
   <a target="_blank"><img height="50" title="CSS3" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"></a>
-  <a target="_blank"><img height="50" title="intellij" alt="intellij" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"></a>
-  <a target="_blank"><img height="50" title="bootstrap" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
-  <a target="_blank"><img height="50" title="visualstudio" alt="visualstudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></a>
+  <a target="_blank"><img height="50" title="Bootstrap" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
+  <a target="_blank"><img height="50" title="VisualStudio" alt="VisualStudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></a>
   
 </div>
 
