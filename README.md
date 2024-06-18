@@ -33,75 +33,93 @@ I am a Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 <div align="center">
 
-<a target="_blank" style="display: inline-block; margin: 0 10px; height: 50px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="height: 100%; width: auto; object-fit: contain;" title="Python" alt="Python">
+<!-- Python -->
+<a target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="Python" alt="Python">
 </a>
 
-<a target="_blank" style="display: inline-block; margin: 0 10px; height: 50px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" style="height: 100%; width: auto; object-fit: contain;" title="Pandas" alt="Pandas">
+<!-- Pandas -->
+<a target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="Pandas" alt="Pandas">
 </a>
 
-<a target="_blank" style="display: inline-block; margin: 0 10px; height: 50px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" style="height: 100%; width: auto; object-fit: contain;" title="Numpy" alt="Numpy">
+<!-- Numpy -->
+<a target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="Numpy" alt="Numpy">
 </a>
 
-<a target="_blank" style="display: inline-block; margin: 0 10px; height: 50px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" style="height: 100%; width: auto; object-fit: contain;" title="Scikitlearn" alt="Scikitlearn">
+<!-- Scikit-learn -->
+<a target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" style="height: 50px; width: auto; object-fit: contain;" title="Scikit-learn" alt="Scikit-learn">
 </a>
 
-<a target="_blank" style="display: inline-block; margin: 0 10px; height: 50px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" style="height: 100%; width: auto; object-fit: contain;" title="Tensorflow" alt="Tensorflow">
+<!-- TensorFlow -->
+<a target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="TensorFlow" alt="TensorFlow">
 </a>
 
-<a target="_blank" style="display: inline-block; margin: 0 10px; height: 50px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="height: 100%; width: auto; object-fit: contain;" title="Docker" alt="Docker">
+<!-- Docker -->
+<a target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="Docker" alt="Docker">
 </a>
 
-<a target="_blank" style="display: inline-block; margin: 0 10px; height: 50px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="height: 100%; width: auto; object-fit: contain;" title="Java" alt="Java">
+<!-- Java -->
+<a target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="Java" alt="Java">
 </a>
 
-<a target="_blank" style="display: inline-block; margin: 0 10px; height: 50px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" style="height: 100%; width: auto; object-fit: contain;" title="Spring" alt="Spring">
+<!-- Spring -->
+<a target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="Spring" alt="Spring">
 </a>
 
-<a target="_blank" style="display: inline-block; margin: 0 10px; height: 50px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="height: 100%; width: auto; object-fit: contain;" title="PostgreSQL" alt="PostgreSQL">
+<!-- PostgreSQL -->
+<a target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="PostgreSQL" alt="PostgreSQL">
 </a>
 
-<a target="_blank" style="display: inline-block; margin: 0 10px; height: 50px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="height: 100%; width: auto; object-fit: contain;" title="MySQL" alt="MySQL">
+<!-- MySQL -->
+<a target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="MySQL" alt="MySQL">
 </a>
 
-<a target="_blank" style="display: inline-block; margin: 0 10px; height: 50px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" style="height: 100%; width: auto; object-fit: contain;" title="Git" alt="Git">
+<!-- Git -->
+<a target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="Git" alt="Git">
 </a>
 
-<a target="_blank" style="display: inline-block; margin: 0 10px; height: 50px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" style="height: 100%; width: auto; object-fit: contain;" title="Tomcat" alt="Tomcat">
+<!-- Tomcat -->
+<a target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="Tomcat" alt="Tomcat">
 </a>
 
-<a target="_blank" style="display: inline-block; margin: 0 10px; height: 50px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 100%; width: auto; object-fit: contain;" title="JavaScript" alt="JavaScript">
+<!-- JavaScript -->
+<a target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 50px; width: auto; object-fit: contain;" title="JavaScript" alt="JavaScript">
 </a>
 
-<a target="_blank" style="display: inline-block; margin: 0 10px; height: 50px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" style="height: 100%; width: auto; object-fit: contain;" title="jQuery" alt="jQuery">
+<!-- jQuery -->
+<a target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="jQuery" alt="jQuery">
 </a>
 
-<a target="_blank" style="display: inline-block; margin: 0 10px; height: 50px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 100%; width: auto; object-fit: contain;" title="HTML5" alt="HTML5">
+<!-- HTML5 -->
+<a target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="HTML5" alt="HTML5">
 </a>
 
-<a target="_blank" style="display: inline-block; margin: 0 10px; height: 50px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 100%; width: auto; object-fit: contain;" title="CSS3" alt="CSS3">
+<!-- CSS3 -->
+<a target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="CSS3" alt="CSS3">
 </a>
 
-<a target="_blank" style="display: inline-block; margin: 0 10px; height: 50px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" style="height: 100%; width: auto; object-fit: contain;" title="Bootstrap" alt="Bootstrap">
+<!-- Bootstrap -->
+<a target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="Bootstrap" alt="Bootstrap">
 </a>
 
 </div>
+
 
 ---
 
