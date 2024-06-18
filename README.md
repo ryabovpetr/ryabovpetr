@@ -37,7 +37,7 @@ I am a Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOC
   <a target="_blank"><img style="height: 50px;" title="Pandas" alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"></a>
   <a target="_blank"><img style="height: 50px;" title="Numpy" alt="Numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"></a>
   <a target="_blank"><img style="height: 50px;" title="Scikitlearn" alt="Scikitlearn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"></a>
-  <a target="_blank"><img style="height: 50px;" title="Tensorflow" alt="Tensorflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg"></a>
+  <a target="_blank"><img height="70" title="Tensorflow" alt="Tensorflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg"></a>
   <a target="_blank"><img style="height: 50px;" title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"></a>
   
   <a target="_blank"><img height="50" title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></a>
