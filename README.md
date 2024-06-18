@@ -31,92 +31,25 @@ I am a Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div align="center">
+<div align="center" dir="auto">
+<a target="_blank"><img style="height: 50px;" title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"></a>
+<a target="_blank"><img style="height: 50px;" title="Pandas" alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"></a>
+<a target="_blank"><img style="height: 50px;" title="Numpy" alt="Numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"></a>
+<a target="_blank"><img style="height: 50px;" title="Scikitlearn" alt="Scikitlearn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"></a>
+<a target="_blank"><img height="50" title="Tensorflow" alt="Tensorflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg"></a>
+<a target="_blank"><img style="height: 50px;" title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"></a>
 
-<!-- Python -->
-<a target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="Python" alt="Python">
-</a>
-
-<!-- Pandas -->
-<a target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="Pandas" alt="Pandas">
-</a>
-
-<!-- Numpy -->
-<a target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" style="height: 70px; width: auto; object-fit: contain;" title="Numpy" alt="Numpy">
-</a>
-
-<!-- Scikit-learn -->
-<a target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" style="height: 70px; width: auto; object-fit: contain;" title="Scikit-learn" alt="Scikit-learn">
-</a>
-
-<!-- TensorFlow -->
-<a target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" style="height: 70px; width: auto; object-fit: contain;" title="TensorFlow" alt="TensorFlow">
-</a>
-
-<!-- Docker -->
-<a target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="Docker" alt="Docker">
-</a>
-
-<!-- Java -->
-<a target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="Java" alt="Java">
-</a>
-
-<!-- Spring -->
-<a target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="Spring" alt="Spring">
-</a>
-
-<!-- PostgreSQL -->
-<a target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="PostgreSQL" alt="PostgreSQL">
-</a>
-
-<!-- MySQL -->
-<a target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="height: 70px; width: auto; object-fit: contain;" title="MySQL" alt="MySQL">
-</a>
-
-<!-- Git -->
-<a target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="Git" alt="Git">
-</a>
-
-<!-- Tomcat -->
-<a target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="Tomcat" alt="Tomcat">
-</a>
-
-<!-- JavaScript -->
-<a target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 50px; width: auto; object-fit: contain;" title="JavaScript" alt="JavaScript">
-</a>
-
-<!-- jQuery -->
-<a target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="jQuery" alt="jQuery">
-</a>
-
-<!-- HTML5 -->
-<a target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="HTML5" alt="HTML5">
-</a>
-
-<!-- CSS3 -->
-<a target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="CSS3" alt="CSS3">
-</a>
-
-<!-- Bootstrap -->
-<a target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="Bootstrap" alt="Bootstrap">
-</a>
+<a target="_blank"><img height="50" title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></a>
+<a target="_blank"><img height="50" title="Spring" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"></a>
+<a target="_blank"><img height="50" title="PostgreSQL" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"></a>
+<a target="_blank"><img height="70" title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></a>
+<a target="_blank"><img height="70" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"></a>
+<a target="_blank"><img height="50" title="Tomcat" alt="Tomcat" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg"></a>
+<a target="_blank"><img height="50" title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
+<a target="_blank"><img height="50" title="Jquery" alt="Jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg"></a>
+<a target="_blank"><img height="50" title="Html5" alt="Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"></a>
+<a target="_blank"><img height="50" title="CSS3" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"></a>
+<a target="_blank"><img height="50" title="Bootstrap" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"></a>
 
 </div>
 
