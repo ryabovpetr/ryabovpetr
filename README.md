@@ -45,17 +45,17 @@ I am a Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 <!-- Numpy -->
 <a target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="Numpy" alt="Numpy">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" style="height: 70px; width: auto; object-fit: contain;" title="Numpy" alt="Numpy">
 </a>
 
 <!-- Scikit-learn -->
 <a target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" style="height: 50px; width: auto; object-fit: contain;" title="Scikit-learn" alt="Scikit-learn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" style="height: 70px; width: auto; object-fit: contain;" title="Scikit-learn" alt="Scikit-learn">
 </a>
 
 <!-- TensorFlow -->
 <a target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="TensorFlow" alt="TensorFlow">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" style="height: 70px; width: auto; object-fit: contain;" title="TensorFlow" alt="TensorFlow">
 </a>
 
 <!-- Docker -->
@@ -80,7 +80,7 @@ I am a Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 <!-- MySQL -->
 <a target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="height: 50px; width: auto; object-fit: contain;" title="MySQL" alt="MySQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="height: 70px; width: auto; object-fit: contain;" title="MySQL" alt="MySQL">
 </a>
 
 <!-- Git -->
