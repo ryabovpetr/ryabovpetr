@@ -17,9 +17,9 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a AI Ingineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: DS, ML, DL, CV, NLP, LLMs.
 
 - :seedling: Exploring Technical Content Writing.
 
